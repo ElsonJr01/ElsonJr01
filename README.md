@@ -14,12 +14,12 @@
 - ✍️ Escrevendo artigos e histórias focadas em tecnologia e criatividade
 - ♟️ Participando de torneios de xadrez quando posso.
 - 🎯 Sempre buscando novos desafios!
+- 🛠️ Membro da ONG Engenheiros Sem Fronteiras
 
 ---
 
 ## 🛠️ Linguagens e Tecnologias
 
-Aqui está a porcentagem das linguagens que mais utilizo:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJr01&layout=compact&langs_count=6&theme=tokyonight)
 
