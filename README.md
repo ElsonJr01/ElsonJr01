@@ -21,13 +21,14 @@
 
 Aqui está a porcentagem das linguagens que mais utilizo:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJr01&layout=compact&langs_count=6&theme=tokyonight)
+
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![Elson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElsonJr01&show_icons=true&theme=tokyonight)
 
 ---
 
