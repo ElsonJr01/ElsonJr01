@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Meu Nome é Elson!
 
-<!--
-**ElsonJr01/ElsonJr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando **Engenharia da Computação** e **Sistemas de Informação**.  
+📖 Apaixonado pela escrita e também sou **escritor** nas horas vagas.  
+♟️ Bom jogador de **xadrez**, sempre buscando estratégias dentro e fora do tabuleiro.  
+💻 Entusiasta da tecnologia, programação e inovação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Sobre mim
+
+- 🔭 Atualmente desenvolvendo para atividades da Faculdade.
+- 🌱 Aprendendo novas linguagens de programação e tecnologias web
+- ✍️ Escrevendo artigos e histórias focadas em tecnologia e criatividade
+- ♟️ Participando de torneios de xadrez quando posso.
+- 🎯 Sempre buscando novos desafios!
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+Aqui está a porcentagem das linguagens que mais utilizo:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=tokyonight)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Como me encontrar
+
+- Email: elson.sousa@unifesspa.edu.br
+
+---
+
+> "A programação é como o xadrez: estratégia, paciência e visão de futuro fazem toda a diferença." ♟️💻
+
