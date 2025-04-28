@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Elson!
 
-🎓 Estudante de **Engenharia da Computação** e **Sistemas de Informação**.  
+🎓 Estudante de **Engenharia da Computação**.  
 📚 Apaixonado pela tecnologia e pela arte da escrita.  
 ♟️ Jogador dedicado de **xadrez**, sempre buscando estratégias dentro e fora do tabuleiro.  
 💻 Entusiasta de programação, inovação e projetos que geram impacto.
