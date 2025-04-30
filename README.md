@@ -15,7 +15,7 @@
 
 ---
 🧰 Tecnologias & Ferramentas
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,sql,git,github,linux,docker,vscode" alt="Tecnologias" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,sql,git,github,vscode" alt="Tecnologias" /> </div>
 ---
 📈 Estatísticas no GitHub
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsonJr01&theme=radical&hide_border=true" alt="GitHub Streak" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElsonJr01&theme=radical" alt="Resumo do Perfil" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElsonJr01&theme=radical" alt="Linguagens nos Repositórios" /> </div>
