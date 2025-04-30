@@ -18,7 +18,7 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,sql,git,github,vscode" alt="Tecnologias" /> </div>
 ---
 📈 Estatísticas no GitHub
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsonJr01&theme=radical&hide_border=true" alt="GitHub Streak" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElsonJr01&theme=radical" alt="Resumo do Perfil" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElsonJr01&theme=radical" alt="Linguagens nos Repositórios" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsonJr01&theme=radical&hide_border=true" alt="GitHub Metrics" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElsonJr01&theme=radical" alt="Resumo do Perfil" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElsonJr01&theme=radical" alt="Linguagens nos Repositórios" /> </div>
 ---
 🌐 Minhas Contribuições Recentes
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElsonJr01&theme=github-compact&area=true&hide_border=true" alt="Gráfico de atividades" /> </div>
