@@ -15,6 +15,7 @@
 🚀 Atividades Recentes
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElsonJr01&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de atividades no GitHub" /> </div>
 ---
+
 ## 📫 Vamos nos conectar!
 - 📧 Email: elson.sousa@unifesspa.edu.br
 ---
