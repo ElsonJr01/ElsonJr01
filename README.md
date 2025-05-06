@@ -6,7 +6,7 @@
 
 ---
 🧰 Tecnologias que Trabalho
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,<b>MySQL</b>,git,github" alt="Tecnologias que utilizo" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,MySQL,git,github" alt="Tecnologias que utilizo" /> </div>
 
 
 📊 Meu GitHub em Números
