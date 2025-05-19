@@ -5,7 +5,6 @@
 💻 Entusiasta de programação, inovação e projetos que geram impacto.
 
 ---
-🧰 Tecnologias que Trabalho
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,MySQL,git,github" alt="Tecnologias que utilizo" /> </div>
 
 
