@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Elson!
+# 👋 Um Entusiasta da tecnologia!
 🎓 Estudante de **Engenharia da Computação**.  
 📚 Apaixonado pela tecnologia e pela arte da escrita.  
 ♟️ Jogador dedicado de **xadrez**, sempre buscando estratégias dentro e fora do tabuleiro.  
@@ -15,7 +15,7 @@
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElsonJr01&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de atividades no GitHub" /> </div>
 ---
 
-## 📫 Vamos nos conectar!
+## 📫 Manda mensagem ai se quiser bater um papo!
 - 📧 Email: elson.sousa@unifesspa.edu.br
 ---
 
