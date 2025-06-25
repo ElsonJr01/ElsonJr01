@@ -8,7 +8,7 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,MySQL,git,github" alt="Tecnologias que utilizo" /> </div>
 
 
-📊 Meu GitHub em Números
+📊 Dizem que o que vale são os numeros e estatisticas, então tá ai, meu GitHub em números.
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ElsonJr01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJr01&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas" /> </div>
 
 🚀 Atividades Recentes
