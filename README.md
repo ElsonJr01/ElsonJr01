@@ -9,7 +9,28 @@
 
 
 📊 Dizem que o que vale são os numeros e estatisticas, então tá ai, meu GitHub em números.
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ElsonJr01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJr01&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas" /> </div>
+
+<p align="center">
+  <a href="https://github.com/ElsonJr01">
+    <img
+      src="https://img.shields.io/github/followers/ElsonJr01?label=Followers&style=for-the-badge"
+      alt="Followers"
+    />
+    <img
+      src="https://img.shields.io/github/stars/ElsonJr01?affiliations=OWNER&style=for-the-badge"
+      alt="Stars"
+    />
+  </a>
+</p>
+---
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElsonJr01&theme=dracula"
+    alt="Resumo de atividade do GitHub"
+  />
+</p>
+
 
 🚀 Atividades Recentes
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElsonJr01&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de atividades no GitHub" /> </div>
