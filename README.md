@@ -30,7 +30,7 @@ Dizem que o que vale são os números e estatísticas, então aqui está o meu d
 ---
 
 ### 💻 Ecossistema de Desenvolvimento
-Abaixo, todas as tecnologias presentes nos meus 22 repositórios:
+Abaixo, todas as tecnologias presentes nos meus repositórios:
 
 | Categoria | Linguagens e Frameworks | Nível |
 | :--- | :--- | :--- |
