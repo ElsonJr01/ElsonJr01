@@ -37,7 +37,7 @@ Abaixo, todas as tecnologias presentes nos meus repositórios:
 | **Backend** | Python, Java, PHP, C, C++ | ![Forte](https://img.shields.io/badge/-Forte-green) |
 | **Frontend** | Astro, TypeScript, HTML, CSS | ![Em Crescimento](https://img.shields.io/badge/-Evoluindo-blue) |
 | **Hardware** | VHDL (FPGA) | ![Estudando](https://img.shields.io/badge/-Intermediário-orange) |
-| **Dados/Eng.** | R, Jupyter Notebook, MySQL | ![Forte](https://img.shields.io/badge/-Forte-blueviolet) |
+| **Dados/ Estatisticas** | R, Jupyter Notebook, MySQL | ![Forte](https://img.shields.io/badge/-Forte-blueviolet) |
 | **Outros** | AGS Script (Circuitos), phpMyAdmin | ![Ativo](https://img.shields.io/badge/-Ativo-lightgrey) |
 
 ---
