@@ -39,7 +39,7 @@
 | Categoria | Linguagens e Ferramentas | Nível |
 | :--- | :--- | :---: |
 | **Backend** | Python, Java, PHP, C, C++ | ![Forte](https://img.shields.io/badge/-Forte-2ea44f) |
-| **Frontend** | Astro, TypeScript, HTML, CSS | ![Evoluindo](https://img.shields.io/badge/-Evoluindo-1f6feb) |
+| **Frontend** | react, TypeScript, HTML, CSS | ![Evoluindo](https://img.shields.io/badge/-Evoluindo-1f6feb) |
 | **Dados & Estatística** | R, Jupyter Notebook, MySQL | ![Forte](https://img.shields.io/badge/-Forte-8957e5) |
 | **Hardware** | VHDL (FPGA) | ![Intermediário](https://img.shields.io/badge/-Intermedi%C3%A1rio-d29922) |
 | **Outros** | AGS Script (Circuitos), phpMyAdmin | ![Ativo](https://img.shields.io/badge/-Ativo-6e7681) |
@@ -74,7 +74,7 @@
 ### 🎯 Em foco atualmente
 
 - 🔭 Trabalhando em projetos ligados a Engenharia da Computação e desenvolvimento web/backend
-- 🌱 Aprofundando conhecimentos em TypeScript, Astro e boas práticas de dados
+- 🌱 Aprofundando conhecimentos em TypeScript, React e boas práticas de dados
 - ♟️ Aplicando lógica e estratégia de xadrez para resolver problemas de programação
 - ✍️ Escrevendo sobre tecnologia e experiências acadêmicas
 
