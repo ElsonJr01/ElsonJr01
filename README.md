@@ -1,5 +1,6 @@
 <h1 align="center">Olá, eu sou o Elson 👋</h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Entusiasta+de+Tecnologia+e+Inova%C3%A7%C3%A3o;Jogador+de+Xadrez+%E2%99%9F%EF%B8%8F;Apaixonado+por+C%C3%B3digo+e+Escrita" alt="Typing SVG" />
 </p>
